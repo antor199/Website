@@ -10,7 +10,7 @@ header {
     color: #E1F7F5;
     padding: 1em 0;
     text-align: center;
-    
+    /* position: sticky; */
 }
 
 nav ul {
@@ -41,7 +41,7 @@ footer {
     color: white;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     width: 100%;
 }
